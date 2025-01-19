@@ -2,4 +2,11 @@ pandas
 numpy
 seaborn
 matplotlib
--e .
+scikit-learn
+catboost
+xgboost
+dill
+#This file( has to be run in in the terminal) if not want to pip install and thus it creates modularity 
+#and download the required file.VIDEO 268 22ND Minute.
+# -e .
+#the above line is responsible for generating the new module again and again.Thus commented down
