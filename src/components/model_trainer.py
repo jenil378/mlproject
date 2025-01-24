@@ -116,4 +116,8 @@ class ModelTrainer:
 
             
         except Exception as e:
+<<<<<<< HEAD
             raise CustomException(e,sys)
+=======
+            raise CustomException(e,sys)
+>>>>>>> 231e31026f6006c07886fe2041df694c087c48da
